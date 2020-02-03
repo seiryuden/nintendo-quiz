@@ -261,7 +261,7 @@ label{
 }
 
 .reload-input{
-    background: url('img/1up.png');
+    background: url('img/1up6.png');
     
     margin-top: 10%;
     align-self: center;
@@ -362,7 +362,7 @@ label{
         margin: 1.5%;
     }
     .reload-input{
-        background: url('img/1up3.png');
+        background: url('img/1up6.png');
         margin-top: 10%;
         background-size: cover;      
         height: 170px;
