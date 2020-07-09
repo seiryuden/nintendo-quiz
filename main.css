@@ -16,7 +16,7 @@ body{
     display: flex;
     flex-direction: column;
     font-size: 110%;
-    background-image: url("https://stmed.net/sites/default/files/nintendo-hd-wallpapers-33447-7002083.jpg");
+    background-image: url("img/nintendo-hd-wallpapers-33447-7002083.jpg");
     background-color: #A7E3FF;
     background-size: cover;
     background-repeat: no-repeat;
@@ -47,8 +47,8 @@ header{
 }
 
 .koopa-logo{
-    height: 90%;
-    width: 60%;
+    
+    width: 55%;
 }
 
 .info-list{
@@ -208,7 +208,7 @@ label{
     margin-left: -40px;
     bottom: 5%;
     align-self: center;
-    background: url(http://aux.iconspalace.com/uploads/1442736216.png);
+    background: url(img/1442736216.png);
     background-size: cover;
     border: none;
     font-size: 0;
@@ -236,7 +236,7 @@ label{
 
 
 .submit-input{
-    background: url(https://cdn2.iconfinder.com/data/icons/devices-79/512/Controller-512.png);
+    background: url(img/Controller-512.png);
     align-self: center;
     background-size: cover;
     border: none;
@@ -249,7 +249,7 @@ label{
 }
 
 .nextQ-input{
-    background: url(http://icons.iconarchive.com/icons/hopstarter/button/256/Button-Next-icon.png);
+    background: url(img/Button-Next-icon.png);
     
     align-self: center;
     background-size: cover;
